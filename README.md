@@ -1,12 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1. Create an empty, public GitHub repository, without any addons, such as README.
+1. Create an empty, public GitHub repository.
 
 2. Create a new React app in the terminal:
 
 $ npx create-react-app {your repo name}
 
-3. Check the information in the package.json for name, homepage, etc.
+3. Change the information in the package.json for name, homepage, etc.
 
 4. Install package.json dependencies.
 
