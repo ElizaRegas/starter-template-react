@@ -8,10 +8,12 @@ $ npx create-react-app {your repo name}
 
 3. Change the information in the package.json for name, homepage, etc.
 
-4. Install package.json dependencies.
+4. Switch into the new project
 
-5. $ git init
+5. Install package.json dependencies.
 
-6. $ git remote add origin https://github.com/{username}/{repo name}.git
+6. $ git init
 
-7. $ npm run deploy
+7. $ git remote add origin https://github.com/{username}/{repo name}.git
+
+8. $ npm run deploy
