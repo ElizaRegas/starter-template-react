@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 2. Create a new React app in the terminal:
 
-$ npx create-react-app {your repo name}
+    $ npx create-react-app {your repo name}
 
-3. Change the information in the package.json for name, homepage, etc.
+3. Copy/paste the package.json from the template, making sure to change the information for name, homepage, etc.
 
 4. Switch into the new project
 
